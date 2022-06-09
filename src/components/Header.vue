@@ -21,7 +21,6 @@ export default {
 <style scoped>
 .header {
   display: flex;
-  /* border: 3px solid red; */
   background: #5a5555;
   justify-content: space-between;
 }
